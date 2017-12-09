@@ -1,0 +1,8 @@
+{
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.colorTheme": "Default High Contrast",
+  "window.menuBarVisibility": "toggle",
+  "git.confirmSync": false,
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2
+}
